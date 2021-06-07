@@ -1,2 +1,2 @@
-# HDM
-Codebase for hierarchical document mining procedures
+# HMDM
+**H**ierarchical & **M**ultilingual **D**ocument **M**ining via localized Poincare projections
